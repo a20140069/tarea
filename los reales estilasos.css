@@ -1,0 +1,7 @@
+h1{color: hsl(214, 100%, 49%); font-family: 'Times New Roman', Times, serif; font-size: 35px;}
+b{color: hsl(34, 94%, 49%); font-family: Verdana; font-size: 30px;}
+p{color: black; font-family: Verdana; font-size: 25px;}
+li{color: rgb(182, 81, 86); font-family: Verdana; font-size: 20px;}
+a:hover{color: rgb(0, 0, 0);font-family: Verdana; font-size: 20px; background-color: black;}
+blockquote{color: #571818; font-family: Verdana; font-size: 25px;}
+table{margin:0 auto}
